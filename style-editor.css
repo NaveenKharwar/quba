@@ -37,6 +37,7 @@
 }
 
 .wp-block.editor-post-title__block .editor-post-title__input {
+	color: #e91e63;
 	font-size: 26px;
 	line-height: 1.2;
 	text-align: center;
@@ -299,4 +300,3 @@
 	list-style: none;
 }
 
-/*# sourceMappingURL=style-editor.css.map */

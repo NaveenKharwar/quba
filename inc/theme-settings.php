@@ -77,6 +77,10 @@ if (!function_exists('quba_setup')) :
 endif;
 add_action('after_setup_theme', 'quba_setup');
 
+// Add support for editor styles
+add_theme_support( 'editor-styles' );
+// Enqueue editor styles
+add_editor_style( 'style-editor.css' );
 
 /**
  * Set the content width in pixels, based on the theme's design and stylesheet.

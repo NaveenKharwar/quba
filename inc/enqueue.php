@@ -32,7 +32,6 @@ if (!function_exists('quba_scripts')) {
         wp_enqueue_script('scrollTop', get_template_directory_uri() . '/assets/js/scrollTop.js', array('jquery'), '20154834', true);
 
 
-
         if (is_singular() && comments_open() && get_option('thread_comments')) {
             wp_enqueue_script('comment-reply');
         }
