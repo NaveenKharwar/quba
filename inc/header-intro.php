@@ -12,8 +12,10 @@ if ( ! defined( 'ABSPATH' ) ) {
 <div id="intro">
     <div class="row">
         <div class="col-lg-6 col-md-12 col-sm-12">
+            <div class="intro-text">
             <h2><?php echo get_theme_mod( 'intro_primary_text', 'Quba WordPress Theme' ) ?></h2>
             <p class="text-secondary-heading"><?php echo get_theme_mod( 'intro_secondary_text', 'Quba is a WordPress Theme designed with design attention to details, flexibility and performance. You can easily customize every bit of the theme.' ) ?></p>
+            </div>
             <p>
               <a class="intro-button" href="<?php echo get_theme_mod( 'button_one_link', '' ) ?>"><?php echo get_theme_mod( 'button_one_text', 'Contact' ) ?></a>
               <a class="intro-button" href="<?php echo get_theme_mod( 'button_two_link', '' ) ?>"><?php echo get_theme_mod( 'button_two_text', 'Blog' ) ?></a>
