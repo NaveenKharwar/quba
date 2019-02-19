@@ -1,8 +1,7 @@
 /*!
 Theme Name: Quba
 Theme URI: https://demo.naveenkharwar.com/theme/quba/
-Author: Naveen Kharwar
-Author URI: http://naveenkharwar.com
+Author: <a href="http://naveenkharwar.com">Naveen Kharwar</a> & <a href="http://harsh98trivedi.github.io">Harsh Trivedi</a>
 Description: Quba is a one-page and highly customizable WordPress theme for developers, designers & freelancers, to showcase their profile.
 Requires at least: WordPress 4.9.6
 Version: 0.5.0
@@ -250,7 +249,7 @@ a:hover, a:active { outline: 0; }
 
 .nav-link:hover::after { width: 100%; left: 0; background: black; }
 
-.header-backgroundColor { background-color: rgba(0,0,0,0.75); position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
+.header-backgroundColor { background-color: rgba(0,0,0,0.60); position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
 
 .intro-text { color:#fff; }
 /*--------------------------------------------------------------
