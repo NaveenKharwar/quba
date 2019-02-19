@@ -1,0 +1,242 @@
+# Copyright (C) 2019 Quba
+# This file is distributed under the same license as the Quba package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Quba\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: NaveenKharwar <naveen919827@gmail.com>\n"
+"Last-Translator: Naveen Kharwar <naveem919827@gmail.com>\n"
+"Report-Msgid-Bugs-To: https://NaveenKharwar.com/contact/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Search, what you are looking!"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:36
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:39
+msgid "Proudly powered by %s"
+msgstr ""
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:45
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: page-front.php:3
+msgid "Front Page Template"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:23
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/portfolio-cpt.php:8
+msgctxt "Post Type General Name"
+msgid "Portfolio"
+msgstr ""
+
+#: inc/portfolio-cpt.php:9
+msgctxt "Post Type Singular Name"
+msgid "Portfolio"
+msgstr ""
+
+#: inc/portfolio-cpt.php:10, inc/portfolio-cpt.php:11
+msgid "Add New Project"
+msgstr ""
+
+#: inc/portfolio-cpt.php:12
+msgid "Edit"
+msgstr ""
+
+#: inc/portfolio-cpt.php:13
+msgid "Edit Project"
+msgstr ""
+
+#: inc/portfolio-cpt.php:14
+msgid "New Project"
+msgstr ""
+
+#: inc/portfolio-cpt.php:15
+msgid "View"
+msgstr ""
+
+#: inc/portfolio-cpt.php:16
+msgid "View Project"
+msgstr ""
+
+#: inc/portfolio-cpt.php:17
+msgid "Search Projects"
+msgstr ""
+
+#: inc/portfolio-cpt.php:18
+msgid "No Projects found"
+msgstr ""
+
+#: inc/portfolio-cpt.php:19
+msgid "No Projects found in Trash"
+msgstr ""
+
+#: inc/portfolio-cpt.php:20
+msgid "Parent Projects"
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:45
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:65
+msgid "Posted in: %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:72
+msgid "Tagged: %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:82
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:99, template-parts/content-page.php:37
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/theme-settings.php:41
+msgid "Primary"
+msgstr ""
+
+#: inc/widgets.php:16
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widgets.php:18
+msgid "Add widgets here."
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:24, template-parts/content.php:52, template-parts/content.php:70
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:41, template-parts/content.php:59
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer/custom-customizers.php:16
+msgid "Quba"
+msgstr ""
+
+#: inc/customizer/custom-customizers.php:18
+msgid "Here you can customize your website."
+msgstr ""
+
+#: inc/customizer/custom-customizers.php:34
+msgid "Intro Section Settings"
+msgstr ""
+
+#: inc/customizer/custom-customizers.php:48, inc/customizer/custom-customizers.php:212, inc/customizer/custom-customizers.php:296, inc/customizer/custom-customizers.php:969, inc/customizer/custom-customizers.php:1034
+msgid "Hide or show section"
+msgstr ""
+
+#: inc/customizer/custom-customizers.php:198
+msgid "About Section Settings"
+msgstr ""
+
+#: inc/customizer/custom-customizers.php:282
+msgid "Service Section Settings"
+msgstr ""
+
+#: inc/customizer/custom-customizers.php:354, inc/customizer/custom-customizers.php:430, inc/customizer/custom-customizers.php:506, inc/customizer/custom-customizers.php:582, inc/customizer/custom-customizers.php:658, inc/customizer/custom-customizers.php:734, inc/customizer/custom-customizers.php:810, inc/customizer/custom-customizers.php:886
+msgid "Hide or show service"
+msgstr ""
+
+#: inc/customizer/custom-customizers.php:955
+msgid "Portfolio Section Settings"
+msgstr ""
+
+#: inc/customizer/custom-customizers.php:1020
+msgid "Contact Section Settings"
+msgstr ""
+
+#: inc/customizer/custom-customizers.php:1319
+msgid "Footer Section Settings"
+msgstr ""
