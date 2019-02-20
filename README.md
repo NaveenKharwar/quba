@@ -21,10 +21,10 @@ Unless otherwise specified, all the theme files, scripts and images are licensed
 ## Libraries
 
 * Bootstrap, http://getbootstrap.com/
-Copyright © 2011-2015 Twitter, Inc, MIT License, http://www.opensource.org/licenses/MIT
+Copyright © 2011-2019 Twitter, Inc, MIT License, http://www.opensource.org/licenses/MIT
 
 * FontAwesome, http://fontawesome.io/
-Copyright © 2015, Dave Gandy,
+Copyright © 2019, Dave Gandy,
 Font Awesome licensed under SIL OFL 1.1, http://scripts.sil.org/OFL
 Code licensed under MIT License, http://www.opensource.org/licenses/MIT
 Documentation licensed under CC BY 3.0, http://creativecommons.org/licenses/by/3.0/
