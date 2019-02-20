@@ -29,8 +29,7 @@ Font Awesome licensed under SIL OFL 1.1, http://scripts.sil.org/OFL
 Code licensed under MIT License, http://www.opensource.org/licenses/MIT
 Documentation licensed under CC BY 3.0, http://creativecommons.org/licenses/by/3.0/
 
-* jquery.matchHeight.js, http://brm.io/jquery-match-height/
-Copyright © 2014, liabru, MIT License, http://www.opensource.org/licenses/MIT
+* JQuery, https://jquery.com/
 
 ## Images
 
@@ -40,5 +39,6 @@ Copyright © 2014, liabru, MIT License, http://www.opensource.org/licenses/MIT
 
 - Initial Release.
 
-## Credits
-* [Naveen Kharwar](http://naveenkharwar.com)
+## Contributors
+* [Naveen Kharwar](http://naveenkharwar.com) - Author
+* [Harsh Trivedi](https://harsh98trivedi.github.io)  - Bug Tester
