@@ -1,19 +1,16 @@
 === Quba ===
 
-Contributors: automattic
+Contributors: naveenkharwar, harsh98trivedi
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
 
 Requires at least: 4.5
 Tested up to: 4.8
-Stable tag: 1.0.0
 License: GNU General Public License v2 or later
 License URI: LICENSE
 
-A starter theme called Quba.
-
 == Description ==
 
-WordPress Theme
+Quba is a one-page and highly customizable WordPress theme for developers, designers & freelancers, to showcase their profile.
 
 == Installation ==
 
@@ -21,16 +18,41 @@ WordPress Theme
 2. Click Upload Theme and Choose File, then select the theme's .zip file. Click Install Now.
 3. Click Activate to use your new theme right away.
 
-== Frequently Asked Questions ==
+# Installation
+1. After downloading the zip file, go to Appearance > Themes and click on the *Install Themes* tab.
+2. Click on the *Upload* link.
+3. Upload the zip file that you downloaded and click *Install Now*.
+4. Click *Activate* to use the theme you just installed.
 
-= Does this theme support any plugins? =
+# Copyright, License & Other info
 
-Quba includes support for Infinite Scroll in Jetpack.
+License: [GNU General Public License v2.0] or later (license.txt file)
+Unless otherwise specified, all the theme files, scripts and images are licensed under GNU General Public License. See License URI in style.css for further details.
 
-== Changelog ==
+## Libraries
 
-= 1.0 - May 12 2015 =
-* Initial release
+* Bootstrap, http://getbootstrap.com/
+Copyright © 2011-2015 Twitter, Inc, MIT License, http://www.opensource.org/licenses/MIT
+
+* FontAwesome, http://fontawesome.io/
+Copyright © 2015, Dave Gandy,
+Font Awesome licensed under SIL OFL 1.1, http://scripts.sil.org/OFL
+Code licensed under MIT License, http://www.opensource.org/licenses/MIT
+Documentation licensed under CC BY 3.0, http://creativecommons.org/licenses/by/3.0/
+
+* jquery.matchHeight.js, http://brm.io/jquery-match-height/
+Copyright © 2014, liabru, MIT License, http://www.opensource.org/licenses/MIT
+
+## Images
+
+* Interview pack by [Freepik](https://www.flaticon.com/authors/freepik)
+
+## Version 0.5.0
+
+- Initial Release.
+
+## Credits
+* [Naveen Kharwar](http://naveenkharwar.com)
 
 == Credits ==
 
